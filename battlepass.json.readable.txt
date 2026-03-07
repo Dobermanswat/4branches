@@ -1,0 +1,39 @@
+# battlepass.json.bytes восстановление
+
+{
+  "source": "battlepass.json.bytes",
+  "base64_length": 533484,
+  "decoded_length": 400112,
+  "decoded_sha256": "58d9040c92af690f416b44a7c660dc6fa2c3aba78a9a601a4f10e4cbb8320a91",
+  "decoded_entropy": 7.9996,
+  "decompression": "none",
+  "likely_obfuscated_or_encrypted": true,
+  "ascii_min_len": 10,
+  "ascii_strings_found": 12,
+  "utf16le_strings_found": 0,
+  "identifier_like_found": 1
+}
+
+## Note
+Данные выглядят как обфусцированные/зашифрованные (высокая энтропия, стандартная распаковка не сработала).
+Ниже — только извлечённые текстовые фрагменты, это НЕ полноценная расшифровка структуры.
+
+## ASCII strings
+EJH\Lwf9HB.^
+@4A($Qk"3x3 
+9D5kJD?'wZ
+x~q`1meA&T
+oBgcv_knXup
+N|v1VTQ2kd
+0'F&_&z9R@
+l@]|m8hV2n
+(X|~@pj>ru
+R2nK,;7dsGJ^M7
+[rsYxu':xb
+]'c_J)|[dd
+
+## Identifier-like strings
+oBgcv_knXup
+
+## UTF-16LE strings
+(none)
