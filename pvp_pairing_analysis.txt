@@ -1,0 +1,53 @@
+# PVP pairing / queue analysis (8 players)
+
+Источник: статический анализ Lua bytecode-дампов `Pvp.lua` и `PvpData.lua`.
+
+## Что найдено в кодовой модели
+
+1. Есть отдельная стадия матчинга и нотификации пары/боёв:
+   - `DoMatch`
+   - `DoNtfBattleMatch`
+   - `NtfBattleMatch`
+   - `PvpBattleMatch`
+
+2. Есть структуры данных пар/матчей:
+   - `pairs`
+   - `matches`
+   - `battles`
+
+3. Есть сортировка игроков по рангу и отдельная адресация по battle-index:
+   - `SortByRank`
+   - `GetRankSortPlayers`
+   - `SetRankSortPlayers`
+   - `serverRankSortPlayers`
+   - `playersBIdxMap`
+   - `GetPlayerByBIdx`
+   - `SortByBIdx`
+
+4. Есть раундовая история/сообщения раунда:
+   - `roundIdx`
+   - `RoundIdx`
+   - `roundHisMsg`
+   - `pvp_battle_round_msg_history`
+
+## Вероятная закономерность очереди (гипотеза)
+
+Для 8 игроков (4 пары) логика, судя по именам структур/методов, вероятнее всего такая:
+
+1) На начало раунда формируется ранжированный список (`SortByRank`, `serverRankSortPlayers`).
+2) Игрокам назначается/обновляется battle index (`bIdx`, `playersBIdxMap`).
+3) На стадии `DoMatch` собираются `pairs`/`matches`.
+4) На клиент прилетает серверная нотификация `NtfBattleMatch` с фактическими парами.
+5) Клиент потом обращается к игрокам через `GetPlayerByBIdx`/`GetBattleByBIdx`.
+
+## Что это означает practically
+
+- С высокой вероятностью матч НЕ полностью случайный каждый раз,
+  а строится на основе ранга + battle index + серверного match-сообщения.
+- Из-за наличия `roundHisMsg` / `pvp_battle_round_msg_history`
+  возможен анти-повтор (учёт предыдущих пар) между раундами.
+
+## Ограничение
+
+Это bytecode-дампы: точная формула pair-алгоритма не видна как исходный Lua-код.
+Для 100% точных правил нужен серверный протокол матча или декомпиляция тела функций `DoMatch`/`NtfBattleMatch`.
