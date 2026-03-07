@@ -1,4 +1,4 @@
-# battlepass.json.extracted.txt
+# battlepass.json.decrypted.txt
 
 Extracted identifier-like fragments from battlepass.json.bytes (NOT a full decryption).
 base64_length: 533484

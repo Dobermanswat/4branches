@@ -1,15 +1,15 @@
-# ability.json.bytes восстановление
+# csprotocol.proto.bytes восстановление
 
 {
-  "source": "ability.json.bytes",
-  "base64_length": 110296,
-  "decoded_length": 82720,
-  "decoded_sha256": "7a4c750f0c04098e4246516ada6a5dfc9d9d77ae13851da138ae81098d52d4f9",
-  "decoded_entropy": 7.9978,
+  "source": "csprotocol.proto.bytes",
+  "base64_length": 60076,
+  "decoded_length": 45056,
+  "decoded_sha256": "4899ba42fcf7a69a4f8daed00d95f3b2ee3f7e46de7a0d571ad2f7db14f61489",
+  "decoded_entropy": 7.996,
   "decompression": "none",
   "likely_obfuscated_or_encrypted": true,
   "ascii_min_len": 10,
-  "ascii_strings_found": 3,
+  "ascii_strings_found": 0,
   "utf16le_strings_found": 0,
   "identifier_like_found": 0
 }
@@ -19,9 +19,7 @@
 Ниже — только извлечённые текстовые фрагменты, это НЕ полноценная расшифровка структуры.
 
 ## ASCII strings
-|wn,e{5\FN
-&qZDXB[*ie
-qc$A9Q44)'!
+(none)
 
 ## Identifier-like strings
 (none)

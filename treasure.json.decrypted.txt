@@ -1,6 +1,6 @@
 # treasure.json.decrypted.txt
 
-Readable extraction from treasure.json.bytes (lossless source is treasure.json.restored.b64).
+Extracted identifier-like fragments from treasure.json.bytes (NOT a full decryption).
 base64_length: 73432
 decoded_length: 55072
 decoded_sha256: 34576e1aba7ee03884e75e7caa70c6ff2be6f196f94a905d9f82db0829c5f63b

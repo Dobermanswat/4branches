@@ -1,6 +1,6 @@
 # lossless text dump of restored bytes
 {
-  "format": "ability-restored-bytes-base64",
+  "format": "restored-bytes-base64",
   "byte_length": 82720,
   "sha256": "7a4c750f0c04098e4246516ada6a5dfc9d9d77ae13851da138ae81098d52d4f9",
   "rebuild": "base64 -d < ability.json.restored.b64 > ability.json.restored.bin"
