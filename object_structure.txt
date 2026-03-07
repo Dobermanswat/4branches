@@ -1,0 +1,1 @@
+0x0000d326: type=0x25a916b0, size=1154, text=False

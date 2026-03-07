@@ -1,0 +1,3 @@
+0 TextAsset Base
+ 1 string m_Name = "battlebox.json"
+ 1 string m_Script = "AoEEUCtvT4LXe0nlLY86ei8zh58/tZFk0vmJGABGH5Mxg1VvbJ16tj/SI/TSWh+0UK7IMoKiXxrmItNQLi4K0IfJQjhGM4Db6dkq71E5CL/N35uc/UL/4yt/M6E9gnffEerswFXgMsDv1EdHxrOyuA=="
