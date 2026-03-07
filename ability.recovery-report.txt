@@ -1,0 +1,11 @@
+Input: ability.json.bytes
+Raw bytes: 110296
+Depth limit: 4
+
+Attempt: raw | depth=0 | size=110296
+Attempt: raw -> base64 | depth=1 | size=82720
+Attempt: raw -> base64 -> base64 | depth=2 | size=16
+Attempt: raw -> base64 -> strip-whitespace | depth=2 | size=80842
+
+No JSON recovered after 4 attempts.
+Likely encrypted or stored in custom binary format.
