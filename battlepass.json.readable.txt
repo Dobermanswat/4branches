@@ -11,12 +11,19 @@
   "ascii_min_len": 10,
   "ascii_strings_found": 12,
   "utf16le_strings_found": 0,
-  "identifier_like_found": 1
+  "identifier_like_found": 1,
+  "advanced_attempts": 3,
+  "advanced_attempts_found_structured_decode": false
 }
 
 ## Note
 Данные выглядят как обфусцированные/зашифрованные (высокая энтропия, стандартная распаковка не сработала).
 Ниже — только извлечённые текстовые фрагменты, это НЕ полноценная расшифровка структуры.
+
+## Advanced transform attempts
+attempt=xor_byte_152; status=interesting; magic=json_array; decompress=none
+attempt=xor_byte_184; status=interesting; magic=json_object; decompress=none
+attempt=raw; status=noise; magic=none; decompress=none
 
 ## ASCII strings
 EJH\Lwf9HB.^

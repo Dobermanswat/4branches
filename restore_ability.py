@@ -69,13 +69,70 @@ def write_lossless_text_dump(decoded: bytes, target: Path) -> None:
     target.write_text("\n".join(lines), encoding="utf-8")
 
 
+def detect_magic(data: bytes) -> str | None:
+    checks = [
+        (b"\x1bLua", "lua_bytecode"),
+        (b"{", "json_object"),
+        (b"[", "json_array"),
+        (b"PK\x03\x04", "zip"),
+        (b"\x1f\x8b", "gzip"),
+        (b"BZh", "bz2"),
+        (b"\xfd7zXZ\x00", "xz"),
+    ]
+    for sig, name in checks:
+        if data.startswith(sig):
+            return name
+    return None
+
+
+def analyze_transform_attempts(decoded: bytes) -> list[dict[str, str]]:
+    attempts: list[tuple[str, bytes]] = [("raw", decoded), ("reversed", decoded[::-1])]
+
+    # cheap xor scan: only keys that produce known header signatures on first bytes
+    sig_headers = [b"\x1bLua", b"{", b"[", b"PK\x03\x04", b"\x1f\x8b", b"BZh", b"\xfd7zXZ\x00"]
+    for key in range(256):
+        prefix = bytes(b ^ key for b in decoded[:8])
+        if any(prefix.startswith(sig) for sig in sig_headers):
+            attempts.append((f"xor_byte_{key}", bytes(b ^ key for b in decoded)))
+
+    results: list[dict[str, str]] = []
+    for name, payload in attempts:
+        magic = detect_magic(payload)
+        decomp = try_decompress(payload)
+        item: dict[str, str] = {"attempt": name, "magic": magic or "none"}
+        if decomp:
+            method, out = decomp
+            item["decompress"] = method
+            item["out_len"] = str(len(out))
+            item["out_magic"] = detect_magic(out) or "none"
+            item["status"] = "interesting"
+        elif magic:
+            item["decompress"] = "none"
+            item["status"] = "interesting"
+        else:
+            item["decompress"] = "none"
+            item["status"] = "noise"
+        results.append(item)
+
+    # unique + prefer interesting
+    uniq: list[dict[str, str]] = []
+    seen = set()
+    for r in sorted(results, key=lambda x: (x["status"] != "interesting", x["attempt"])):
+        key = (r["magic"], r.get("decompress", "none"), r.get("out_magic", "none"))
+        if key in seen and r["status"] != "interesting":
+            continue
+        seen.add(key)
+        uniq.append(r)
+    return uniq[:20]
+
+
 def main() -> None:
     parser = argparse.ArgumentParser(description="Restore/read *.json.bytes payloads")
     parser.add_argument("input", nargs="?", default="ability.json.bytes")
     parser.add_argument("--out-lossless", default="ability.json.restored.b64")
     parser.add_argument("--out-readable", default="ability.json.readable.txt")
     parser.add_argument("--out-bin", default=None, help="Optional raw binary output path")
-    parser.add_argument("--ascii-min-len", type=int, default=8)
+    parser.add_argument("--ascii-min-len", type=int, default=10)
     args = parser.parse_args()
 
     src = Path(args.input)
@@ -99,6 +156,8 @@ def main() -> None:
 
     entropy = shannon_entropy(decoded)
     likely_obfuscated = decompress_note == "none" and entropy > 7.9
+    attempts = analyze_transform_attempts(decoded)
+    solved_by_attempts = any(a["status"] == "interesting" and (a["magic"] not in {"json_object", "json_array", "none"} or a["decompress"] != "none") for a in attempts)
 
     report = {
         "source": str(src),
@@ -112,6 +171,8 @@ def main() -> None:
         "ascii_strings_found": len(ascii_strings),
         "utf16le_strings_found": len(utf16_strings),
         "identifier_like_found": len(identifier_like),
+        "advanced_attempts": len(attempts),
+        "advanced_attempts_found_structured_decode": solved_by_attempts,
     }
 
     lines = [f"# {src.name} восстановление", "", json.dumps(report, ensure_ascii=False, indent=2), ""]
@@ -125,6 +186,21 @@ def main() -> None:
             ]
         )
 
+    lines.append("## Advanced transform attempts")
+    for a in attempts:
+        parts = [
+            f"attempt={a['attempt']}",
+            f"status={a['status']}",
+            f"magic={a['magic']}",
+            f"decompress={a['decompress']}",
+        ]
+        if "out_len" in a:
+            parts.append(f"out_len={a['out_len']}")
+        if "out_magic" in a:
+            parts.append(f"out_magic={a['out_magic']}")
+        lines.append("; ".join(parts))
+
+    lines.append("")
     lines.append("## ASCII strings")
     lines.extend(ascii_strings if ascii_strings else ["(none)"])
     lines.append("")

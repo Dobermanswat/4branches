@@ -1,0 +1,14 @@
+# decryption.progress.txt
+
+total_payload_files: 7
+before_work_structured_decoded: 0/7 (0.00%)
+after_work_structured_decoded: 0/7 (0.00%)
+
+files:
+- ability.json.bytes: solved=false, decompression=none, advanced=False, entropy=7.9978
+- battlepass.json.bytes: solved=false, decompression=none, advanced=False, entropy=7.9996
+- csprotocol.proto.bytes: solved=false, decompression=none, advanced=False, entropy=7.996
+- goods.json.bytes: solved=false, decompression=none, advanced=False, entropy=7.9955
+- hero.json.bytes: solved=false, decompression=none, advanced=False, entropy=7.9971
+- mall.json.bytes: solved=false, decompression=none, advanced=False, entropy=7.9944
+- treasure.json.bytes: solved=false, decompression=none, advanced=False, entropy=7.9967
