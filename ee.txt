@@ -1,0 +1,52 @@
+0 AssetBundle Base
+ 1 string m_Name = "b3f04f906ff21b6a13fd3c83896da6ec.bundle"
+ 0 vector m_PreloadTable
+  1 Array Array (4 items)
+   0 int size = 4
+   [0]
+    0 PPtr<Object> data
+     0 int m_FileID = 1
+     0 SInt64 m_PathID = -4826179110787420926
+   [1]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -2766267126516050984
+   [2]
+    0 PPtr<Object> data
+     0 int m_FileID = 1
+     0 SInt64 m_PathID = 260440073162408549
+   [3]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 148292084595421477
+ 0 map m_Container
+  0 Array Array (1 items)
+   0 int size = 1
+   [0]
+    0 pair data
+     1 string first = "Assets/Settings/Default_en.asset"
+     0 AssetInfo second
+      0 int preloadIndex = 0
+      0 int preloadSize = 4
+      0 PPtr<Object> asset
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = 148292084595421477
+ 0 AssetInfo m_MainAsset
+  0 int preloadIndex = 0
+  0 int preloadSize = 0
+  0 PPtr<Object> asset
+   0 int m_FileID = 0
+   0 SInt64 m_PathID = 0
+ 0 unsigned int m_RuntimeCompatibility = 1
+ 1 string m_AssetBundleName = "b3f04f906ff21b6a13fd3c83896da6ec.bundle"
+ 0 vector m_Dependencies
+  1 Array Array (1 items)
+   0 int size = 1
+   [0]
+    1 string data = "cab-196959a7cbbe33b81584c34c81cc08ed"
+ 1 bool m_IsStreamedSceneAssetBundle = false
+ 0 int m_ExplicitDataLayout = 1
+ 0 int m_PathFlags = 0
+ 0 map m_SceneHashes
+  0 Array Array (0 items)
+   0 int size = 0

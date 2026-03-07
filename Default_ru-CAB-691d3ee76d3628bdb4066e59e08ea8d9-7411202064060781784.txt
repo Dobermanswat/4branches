@@ -1,0 +1,4103 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = -2766267126516050984
+ 1 string m_Name = "Default_ru"
+ 0 LocaleIdentifier m_LocaleId
+  1 string m_Code = "ru"
+ 0 PPtr<$SharedTableData> m_SharedData
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 260440073162408549
+ 0 MetadataCollection m_Metadata
+  0 IMetadata m_Items
+   0 Array Array (1 items)
+    0 int size = 1
+    [0]
+     0 managedRefArrayItem data
+      0 SInt64 rid = 5534262468579426367
+ 0 TableEntryData m_TableData
+  0 Array Array (454 items)
+   0 int size = 454
+   [0]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2232897596891136
+     1 string m_Localized = "Выход"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [1]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2232897596891137
+     1 string m_Localized = "Руководство для новичков"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [2]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2232897596891139
+     1 string m_Localized = "Начать"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [3]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2232897596891140
+     1 string m_Localized = "Поиск"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [4]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103741526016
+     1 string m_Localized = "Настройки"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [5]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103766691840
+     1 string m_Localized = "Громкость:"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [6]
+    0 TableEntryData data
+     0 SInt64 m_Id = 37668121707560960
+     1 string m_Localized = "Музыка:"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [7]
+    0 TableEntryData data
+     0 SInt64 m_Id = 37668121749504000
+     1 string m_Localized = "Звуковые эффекты:"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [8]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103766691841
+     1 string m_Localized = "Отступы:"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [9]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103766691842
+     1 string m_Localized = "Соглашение:"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [10]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103766691843
+     1 string m_Localized = "Код подарка"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [11]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103766691844
+     1 string m_Localized = "Пользовательское соглашение"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [12]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103766691845
+     1 string m_Localized = "Политика конфиденциальности"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [13]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103766691846
+     1 string m_Localized = "Просмотр безопасной зоны"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [14]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103766691847
+     1 string m_Localized = "Частота кадров:"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [15]
+    0 TableEntryData data
+     0 SInt64 m_Id = 53326882778398720
+     1 string m_Localized = "Окно:"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [16]
+    0 TableEntryData data
+     0 SInt64 m_Id = 53326882820341760
+     1 string m_Localized = "Полный экран"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [17]
+    0 TableEntryData data
+     0 SInt64 m_Id = 53326882820341761
+     1 string m_Localized = "Окно"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [18]
+    0 TableEntryData data
+     0 SInt64 m_Id = 55066386224660480
+     1 string m_Localized = "Горячие клавиши:"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [19]
+    0 TableEntryData data
+     0 SInt64 m_Id = 55066802568052736
+     1 string m_Localized = "Показать"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [20]
+    0 TableEntryData data
+     0 SInt64 m_Id = 55066802568052737
+     1 string m_Localized = "Скрыть"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [21]
+    0 TableEntryData data
+     0 SInt64 m_Id = 73246099195576320
+     1 string m_Localized = "Наблюдать"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [22]
+    0 TableEntryData data
+     0 SInt64 m_Id = 73246099233325056
+     1 string m_Localized = "Жалоба"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [23]
+    0 TableEntryData data
+     0 SInt64 m_Id = 73553804133154816
+     1 string m_Localized = "объявление"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [24]
+    0 TableEntryData data
+     0 SInt64 m_Id = 73635442124931072
+     1 string m_Localized = "Просмотр чата:"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [25]
+    0 TableEntryData data
+     0 SInt64 m_Id = 73635442158485504
+     1 string m_Localized = "Название в игре:"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [26]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103766691848
+     1 string m_Localized = "Низкий"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [27]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103766691849
+     1 string m_Localized = "Высокий"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [28]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103766691850
+     1 string m_Localized = "Язык:"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [29]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103766691851
+     1 string m_Localized = "Путь Славы"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [30]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103766691852
+     1 string m_Localized = "Конец сезона:"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [31]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103766691853
+     1 string m_Localized = "дней"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [32]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103766691854
+     1 string m_Localized = "Продвинутый"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [33]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103766691855
+     1 string m_Localized = "Включить"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [34]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103766691856
+     1 string m_Localized = "Обычный"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [35]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103766691857
+     1 string m_Localized = "1. Зарабатывание очков повышает ваше звание на Дороге Славы.\\n(Источники очков: победа за матч, серия побед, командная игра, первая победа за сезон с героем/сокровищем)\\n2. После завершения сезона игроки, вошедшие в игру, получат финальные награды и начнется новый сезон.\\n(Награда за звание: каждый игрок получит аватар, соответствующий его званию на момент завершения.\\nРейтинг: игроки в рейтинге званий или чемпионов получат аватарки топ-100, топ-10 или №1 в зависимости от позиции.)\\n3. В начале нового сезона будет унаследовано определенное количество очков лестницы на основе вашего уровня на Дороге Славы."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 5534262468579426367
+   [36]
+    0 TableEntryData data
+     0 SInt64 m_Id = 134841149124837376
+     1 string m_Localized = "Руководство по Сезону"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [37]
+    0 TableEntryData data
+     0 SInt64 m_Id = 134841149225500672
+     1 string m_Localized = "1. Набирая опыт и повышая уровень Руководства по Сезону, можно получить много наград.\\n (Источники опыта: партии, Счастливые Звезды)\\n (Счастливые Звезды: В начале каждого сезона сбрасывается до 3 Счастливых Звезд. Каждый день автоматически добавляется 1 звезда, и это накапливается даже для игроков, которые не заходили в игру. При подсчете результатов партии расходуется 1 звезда для получения 40 очков опыта Руководства по Сезону.)\\n2. Руководство по Сезону по умолчанию разблокировано в обычной версии. Возможность использовать премиум-пасс может быть открыта в любое время для получения дополнительных индивидуальных наград.\\n3. При начале нового сезона уровень и опыт Руководства по Сезону сбрасываются, а также обновляется новый набор наград."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 5534262468579426367
+   [38]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103766691860
+     1 string m_Localized = "Склад"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [39]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103766691861
+     1 string m_Localized = "Текущий сезон"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [40]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103766691862
+     1 string m_Localized = "Карьера"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [41]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103766691863
+     1 string m_Localized = "Чемпион"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [42]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103766691864
+     1 string m_Localized = "Последовательные чемпионы"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [43]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103766691865
+     1 string m_Localized = "Четверка лучших"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [44]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103766691866
+     1 string m_Localized = "Последовательные четверки лучших"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [45]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103766691867
+     1 string m_Localized = "Текущий ранг"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [46]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103766691868
+     1 string m_Localized = "МАТЧЕЙ"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [47]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103766691869
+     1 string m_Localized = "СРЕД.МЕСТО"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [48]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103766691870
+     1 string m_Localized = "Руководство"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [49]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103766691871
+     1 string m_Localized = "Служба поддержки"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [50]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103766691872
+     1 string m_Localized = "Выход"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [51]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103766691873
+     1 string m_Localized = "Рейтинг"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [52]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103766691874
+     1 string m_Localized = "Командная игра"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [53]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103766691875
+     1 string m_Localized = ""
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [54]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103766691876
+     1 string m_Localized = "Альбом"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [55]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103766691877
+     1 string m_Localized = "Коллекция"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [56]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103766691878
+     1 string m_Localized = "Магазин"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [57]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103766691879
+     1 string m_Localized = "Рейтинг"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [58]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103766691880
+     1 string m_Localized = ""
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [59]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103766691885
+     1 string m_Localized = "Подтвердить"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [60]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103766691886
+     1 string m_Localized = "Отменить"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [61]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103766691887
+     1 string m_Localized = "Нажмите в любом месте экрана, чтобы продолжить."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [62]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103766691888
+     1 string m_Localized = "Пожалуйста, сначала прочитайте и согласитесь с <color=#87CEEB>Политикой конфиденциальности</color>"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [63]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103766691889
+     1 string m_Localized = "и <color=#87CEEB>Пользовательским соглашением</color>"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [64]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103766691890
+     1 string m_Localized = "Наша компания активно выполняет положения «Саморегулируемого соглашения индустрии онлайн-игр по профилактике зависимости».\\nБоремся с вредными играми, отвергаем пиратские игры. Обращайте внимание на личную безопасность, остерегайтесь мошенничества. Умеренные игровые нагрузки полезны для ума, но чрезмерное увлечение вредит здоровью. Рационально планируйте время, живите здоровой жизнью."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 5534262468579426367
+   [65]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103766691891
+     1 string m_Localized = "Название нового игрока"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [66]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103766691892
+     1 string m_Localized = "Создать"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [67]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103766691893
+     1 string m_Localized = "Загрузка..."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [68]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103766691894
+     1 string m_Localized = "Пользовательское соглашение и политика конфиденциальности"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [69]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103766691895
+     1 string m_Localized = "Прежде чем начать играть в Skill Legends Royale, вы должны подтвердить, что прочитали и принимаете нашу <link="https://slr.zggame.net/Privacy"><color=#0000FF><u>Политику конфиденциальности</u></color></link> и <link="https://slr.zggame.net/UseTerms"><color=#0000FF><u>Условия использования</u></color></link>.\\nНажмите «Подтвердить», чтобы принять и запустить приложение."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 5534262468579426367
+   [70]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103766691896
+     1 string m_Localized = "Согласиться"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [71]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103766691897
+     1 string m_Localized = "Отказаться"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [72]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103766691899
+     1 string m_Localized = "<color=#16E8F7>Политику конфиденциальности</color>."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [73]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103766691900
+     1 string m_Localized = "Обновление данных"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [74]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103766691901
+     1 string m_Localized = "Это обновление загрузит 1,2 МБ данных. Пожалуйста, подтвердите, хотите ли вы загрузить."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [75]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103766691902
+     1 string m_Localized = "Случайно"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [76]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103766691903
+     1 string m_Localized = "<size=36>Случайный выбор</size>\\nСлучайно получить другой артефакт"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 5534262468579426367
+   [77]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103766691904
+     1 string m_Localized = "Подтвердить выход"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [78]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103766691905
+     1 string m_Localized = "Вы хотите выйти из обучения сейчас?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [79]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103766691906
+     1 string m_Localized = "Подтвердить"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [80]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103766691907
+     1 string m_Localized = "Вернуться в холл"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [81]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103766691908
+     1 string m_Localized = "Игрок"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [82]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103766691909
+     1 string m_Localized = "Герой"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [83]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103766691910
+     1 string m_Localized = "Основная школа"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [84]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103766691911
+     1 string m_Localized = "Артефакт"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [85]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103766691912
+     1 string m_Localized = "Общее количество урона, разделенного духами в этой битве."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [86]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103766691914
+     1 string m_Localized = "Уровень 99"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [87]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103766691915
+     1 string m_Localized = "Школа"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [88]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103766691916
+     1 string m_Localized = "Доступные школы:"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [89]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103766691917
+     1 string m_Localized = "Запрещённые школы:"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [90]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103766691918
+     1 string m_Localized = "ДУХ"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [91]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103766691919
+     1 string m_Localized = "Процент разделения урона: 60%"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [92]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103766691920
+     1 string m_Localized = "Подтвердить сдачу"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [93]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103766691921
+     1 string m_Localized = "Примечание: Чтобы обеспечить честную игру для всех игроков, сдача не поощряется.\\n\\nЕсли вы решите сдаться, произойдёт следующее:\\n\\n1. Вы будете немедленно уничтожены и не получите никаких очков.\\n2. Все предметы, использованные в бою, будут вычтены, как обычно.\\n3. Все награды, которые обычно выдаются по окончании обычного боя, будут аннулированы."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 5534262468579426367
+   [94]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103766691922
+     1 string m_Localized = "Сдаться"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [95]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103766691923
+     1 string m_Localized = "Мир"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [96]
+    0 TableEntryData data
+     0 SInt64 m_Id = 119228810242310144
+     1 string m_Localized = "Местный"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [97]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103766691924
+     1 string m_Localized = "Битва"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [98]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103766691925
+     1 string m_Localized = "Команда"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [99]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103766691926
+     1 string m_Localized = "Присоединяйтесь к чату..."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [100]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103766691927
+     1 string m_Localized = "Все"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [101]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103766691928
+     1 string m_Localized = "Заблокировано"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [102]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103766691929
+     1 string m_Localized = "Подтвердить использование"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [103]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103766691930
+     1 string m_Localized = "Хотите ли вы использовать один <color=#f35900>премиум-пропуск</color> для премиум наград Руководства по Сезону?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [104]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103766691931
+     1 string m_Localized = "Текущее количество: 9999999"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [105]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103766691932
+     1 string m_Localized = "Перейти к покупке"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [106]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103766691933
+     1 string m_Localized = "Просмотреть информацию"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [107]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103766691934
+     1 string m_Localized = "Выгнать из команды"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [108]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103766691936
+     1 string m_Localized = "Случайно"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [109]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103766691937
+     1 string m_Localized = "Обновить"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [110]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103766691938
+     1 string m_Localized = "Выберите навык"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [111]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103766691939
+     1 string m_Localized = "После достижения 1-й/3-й звезды школы навыков может появиться редкий/легендарный навык этой школы.После достижения 2-й/4-й звезды школы навыков обязательно появится редкий/легендарный навык этой школы.(Если в магазине они остались)"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 5534262468579426367
+   [112]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4811258500292608
+     1 string m_Localized = "Разблокировано"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [113]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103766691941
+     1 string m_Localized = "Первая фаза"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [114]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103766691942
+     1 string m_Localized = "Системное объявление"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [115]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103766691943
+     1 string m_Localized = "Поздравляем с получением"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [116]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103766691944
+     1 string m_Localized = "Подтвердить"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 5534262468579426367
+   [117]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103766691945
+     1 string m_Localized = "Перейти к просмотру"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [118]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103766691947
+     1 string m_Localized = "Подтвердить"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 5534262468579426367
+   [119]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103766691948
+     1 string m_Localized = "Описание"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [120]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103766691949
+     1 string m_Localized = "Здесь есть гайды по игре, а также можно снова войти в обучающий курс для новичков."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [121]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103766691950
+     1 string m_Localized = "Руководство по Сезону! Очки, полученные в каждой игре, будут накапливаться здесь. Получайте награды, открывая более высокие ранги!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [122]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103766691951
+     1 string m_Localized = "Смотрите! Это альбом! Здесь вы можете просмотреть информацию обо всех героях, артефактах и навыках!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [123]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103766691952
+     1 string m_Localized = "Задания для новичков здесь! Давайте выполним несколько задач и проверим свои силы!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [124]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103766691953
+     1 string m_Localized = "Это рейтинг в игре, место, где демонстрируется слава сильных! Давайте вместе посмотрим!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [125]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103766691954
+     1 string m_Localized = "Навык"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [126]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103766691955
+     1 string m_Localized = "Разблокировать через сундук коллекции"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [127]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103766691956
+     1 string m_Localized = "Талант"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [128]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103766691957
+     1 string m_Localized = "Ульта"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [129]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103766691958
+     1 string m_Localized = "Первый день"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [130]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103766691959
+     1 string m_Localized = "Название задания"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [131]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103766691960
+     1 string m_Localized = "Задание для новичков"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [132]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103766691961
+     1 string m_Localized = "Призвать больше заданий"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [133]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103766691963
+     1 string m_Localized = "Ранг"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [134]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103766691964
+     1 string m_Localized = "Победы"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [135]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103766691967
+     1 string m_Localized = "Введите номер команды"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [136]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103766691968
+     1 string m_Localized = "Присоединиться"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [137]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103766691969
+     1 string m_Localized = "Создать команду"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [138]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103766691970
+     1 string m_Localized = "Присоединиться к команде"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [139]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103766691971
+     1 string m_Localized = "Команда для соревнований"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [140]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103766691972
+     1 string m_Localized = "Команда для тренировок"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [141]
+    0 TableEntryData data
+     0 SInt64 m_Id = 154740701036617728
+     1 string m_Localized = "Обычная команда"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [142]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103766691973
+     1 string m_Localized = "Номер команды:"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [143]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103766691974
+     1 string m_Localized = "Покинуть команду"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [144]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103766691975
+     1 string m_Localized = "В настоящее время поддерживаются [Команда для соревнований], [Обычная команда] и [Команда для тренировок].\\n[Команда для соревнований]: максимум 4 человека в команде, участвуют в матче с реальными игроками, после окончания игры обновляются результаты, можно получить награду за участие.\\n[Обычная команда]: максимум 8 человек в команде, не получают результатов, но получают опыт сезонного справочника и расходуют Счастливый звезда.\\n]Команда для тренировок]: максимум 8 человек в команде, если менее 8 человек, автоматически заполняется ИИ, не получают результатов и наград."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 5534262468579426367
+   [145]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103766691978
+     1 string m_Localized = "Ваш склад пуст."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [146]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103766691979
+     1 string m_Localized = "Основной"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [147]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103766691980
+     1 string m_Localized = ""
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [148]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103766691981
+     1 string m_Localized = "Школа"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [149]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103766691983
+     1 string m_Localized = "Сложность"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [150]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103766691984
+     1 string m_Localized = "Основной навык"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [151]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103766691985
+     1 string m_Localized = "Метод противодействия"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [152]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103766691986
+     1 string m_Localized = "Рекомендуемый герой"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [153]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103766691987
+     1 string m_Localized = "Эффект звезды:"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [154]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103766691988
+     1 string m_Localized = "Обучение"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [155]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103770886144
+     1 string m_Localized = "Войти"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [156]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103770886145
+     1 string m_Localized = "Уровень обучения"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [157]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103770886147
+     1 string m_Localized = "Опции"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [158]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103770886148
+     1 string m_Localized = "Рейтинг"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [159]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103770886150
+     1 string m_Localized = "В бою золото можно использовать для покупки навыков.\\n<color=orange>Основной доход:</color> Автоматически получайте 300-400 золота за каждый раунд, сумма увеличивается с количеством раундов.\\n<color=orange>Проценты:</color> За каждые 100 сохраненных золотых вы получаете +10 золотых в качестве процентов в следующем раунде, максимум до 50 золотых.\\n<color=orange>Победа:</color> За победу в бою вы получаете 50 золотых.\\n<color=orange>Серия побед:</color> За каждую последующую победу вы получаете дополнительно 10 золотых, максимум до 30.\\n<color=orange>Компенсация за поражение:</color> За каждую 1 единицу здоровья игрока, потерянную от вражеского игрока, вы получаете +30 золотых."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 5534262468579426367
+   [160]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103770886152
+     1 string m_Localized = "Случайно"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [161]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103770886153
+     1 string m_Localized = "Жизнь"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [162]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103770886154
+     1 string m_Localized = "Уровень"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [163]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103770886155
+     1 string m_Localized = "Использовать"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [164]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103770886157
+     1 string m_Localized = "Руководство для новичков"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [165]
+    0 TableEntryData data
+     0 SInt64 m_Id = 162428111297146880
+     1 string m_Localized = ""
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [166]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103770886158
+     1 string m_Localized = "Добро пожаловать в <font="res_yuyang_border_33170A_20"><color=#ffa500ff>Skill Legends Royale</color></font>, здесь вам нужно изучать навыки, чтобы усилить героя, и остаться единственным победив всех"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [167]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4787941642936320
+     1 string m_Localized = "Далее я научу вас, как изучать навыки, чтобы повысить свою силу. Давайте начнём!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [168]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103770886159
+     1 string m_Localized = "Это ваш герой. Герой - ваш боевой юнит!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [169]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4787941756182528
+     1 string m_Localized = "Здесь количество жизней и энергии героя."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [170]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4787941756182529
+     1 string m_Localized = "Здесь панель свойств героя."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [171]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103770886160
+     1 string m_Localized = "1. Изучение навыков"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [172]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4787941756182530
+     1 string m_Localized = "Здесь находится Магазин навыков, где будут отображаться навыки, доступные для изучения."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [173]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4787941756182531
+     1 string m_Localized = "Нажмите на навык, чтобы изучить его. Давайте попробуем!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [174]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103770886161
+     1 string m_Localized = "Выполнено"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [175]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103770886162
+     1 string m_Localized = "Функция изучения навыков"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [176]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103770886163
+     1 string m_Localized = "Изучение навыков позволит герою получить его эффект"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [177]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103770886164
+     1 string m_Localized = "Отлично!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [178]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4787941756182532
+     1 string m_Localized = "Отлично!!! Теперь давайте вступим в бой и проверим свою силу!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [179]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4787941756182533
+     1 string m_Localized = "Хоть мы и выиграли прошлый матч, соперник оказался на удивление силён! В будущем нас ждут ещё более серьёзные испытания, поэтому крайне важно усилить наших героев!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [180]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4787941756182534
+     1 string m_Localized = "2. Повышение звезды школы навыков"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [181]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4787941756182535
+     1 string m_Localized = "Каждый навык принадлежит определенной школе."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [182]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4787941756182536
+     1 string m_Localized = "Изучение навыков увеличивает опыт школы, к которой принадлежит навык. Когда опыт достигнет 8 очков, эта школа будет повышена на одну звезду."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [183]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4787941756182537
+     1 string m_Localized = "Давайте изучим навыки и повысим одну школу навыков до одной звезды!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [184]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103770886165
+     1 string m_Localized = "Эффект повышения звезды"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [185]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103770886166
+     1 string m_Localized = "Магазин навыков может появиться более высокоуровневый навык."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [186]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103770886167
+     1 string m_Localized = "Дополнительный эффект звезды. (Нажмите на книгу навыков, чтобы просмотреть)."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [187]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103770886168
+     1 string m_Localized = "Уровень героя будет повышен. (Увеличение количества жизней)."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [188]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4787941756182538
+     1 string m_Localized = "3. Изучение редкого навыка"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [189]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4787941756182539
+     1 string m_Localized = "Отлично! После того, как школа навыков достигнет одной звезды, у нас есть возможность выучить <color=#417fff>Редкий навык</color> в магазине навыков. Давайте выучим один <color=#417fff>Редкий навык!</color>"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [190]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4793636371111936
+     1 string m_Localized = "Это <color=#417fff>Редкий навык</color>! Синий фон, более мощный, чем обычный навык! Быстро выучите и посмотрите эффект!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [191]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103770886169
+     1 string m_Localized = "Информация о редком навыке"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [192]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103770886170
+     1 string m_Localized = "Когда школа навыков достигает одной звезды, только тогда возможно появление <color=#417fff>Редкого навыка</color> этой школы в магазине.Когда школа навыков достигает двух звезд, по умолчанию появляется редкий навык этой школы в магазине.Изучение <color=#417fff>Редкого навыка</color> может добавить 2 очка опыта этой школы."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 5534262468579426367
+   [193]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4787941756182540
+     1 string m_Localized = "Отлично! <color=#417fff>Редкий навык</color> значительно повысит нашу силу. Давайте проверим это в бою!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [194]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4787941756182541
+     1 string m_Localized = "По мере того, как мы становимся сильнее, растут и наши враги. Необходимо положить этому конец. Нам нужно больше силы, чтобы одержать победы!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [195]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4787941756182542
+     1 string m_Localized = "4. Повышение навыка до максимального уровня"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [196]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4787941756182543
+     1 string m_Localized = "Каждый раз, когда вы повторно изучаете навык, он повышается."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [197]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4787941756182544
+     1 string m_Localized = "Обычный навык достигает максимального уровня на пятом уровне.<color=#417fff>Редкий навык</color> достигает максимального уровня на третьем уровне."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 5534262468579426367
+   [198]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4787941756182545
+     1 string m_Localized = "Чтобы повысить нашу силу, давайте повысим один навык до максимального уровня!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [199]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103770886173
+     1 string m_Localized = "Бонус максимального уровня навыка"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [200]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103770886174
+     1 string m_Localized = "Обратите внимание, когда навык будет повышен до максимального уровня, будет дополнительный бонус числовых значений."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [201]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4787941756182546
+     1 string m_Localized = "5. Повышение школы навыков до трех звезд"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [202]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4787941756182547
+     1 string m_Localized = "Максимальный уровень навыка может усилить нашу силу, но этого недостаточно! Нам нужен более мощный навык! Возможно, повышение школы навыков может дать нам новый выбор!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [203]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103770886175
+     1 string m_Localized = "Информация о легендарном навыке"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [204]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4449103770886176
+     1 string m_Localized = "<color=#ffa500ff>Легендарный навык</color> - это конечный навык каждой школы навыков! Когда школа навыков достигает трех звезд, только тогда возможно появление легендарного навыка этой школы в магазине.Когда школа навыков достигает четырех звезд, по умолчанию появляется <color=#ffa500ff>Легендарный навык</color> этой школы в магазине.Изучение <color=#ffa500ff>Легендарного навыка</color> может добавить 3 очка опыта этой школы."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 5534262468579426367
+   [205]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4787941756182548
+     1 string m_Localized = "6. Изучение легендарного навыка"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [206]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4787941756182549
+     1 string m_Localized = "Ух ты! Оказывается, когда школа навыков достигает трех звезд, можно разблокировать <color=#ffa500ff>Легендарный навык</color>. Как самый мощный навык этой школы, он обязательно поможет нам сокрушить врагов. Быстро выучите один <color=#ffa500ff>Легендарный навык</color>!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [207]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4787941756182550
+     1 string m_Localized = "Смотрите! Это <color=#ffa500ff>Легендарный навык</color>!!! Сияющий оранжевый свет!!! Символ силы!!!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [208]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4787941756182551
+     1 string m_Localized = "Отлично! <color=#ffa500ff>Легендарный навык</color> значительно повысил нашу силу. Теперь мы обязательно сокрушим наших врагов! Я уже не могу дождаться, чтобы вступить в бой!!!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [209]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4787941756182552
+     1 string m_Localized = "Отлично! Похоже, вы уже освоили основы игры! Теперь идите покорять вселенную! Удачи!!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [210]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5133811050364946
+     1 string m_Localized = "Unity Localization smart: Test{global.ABITAG_LVL_HP_PLUS}"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 5534262468579426367
+   [211]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5152469835071488
+     1 string m_Localized = "Рейтинг"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [212]
+    0 TableEntryData data
+     0 SInt64 m_Id = 30881343822643200
+     1 string m_Localized = "Личная информация"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [213]
+    0 TableEntryData data
+     0 SInt64 m_Id = 35257479779647488
+     1 string m_Localized = "Введите код подарка"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [214]
+    0 TableEntryData data
+     0 SInt64 m_Id = 38094324834041856
+     1 string m_Localized = "Сундук"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [215]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5158190011719680
+     1 string m_Localized = "Атака"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [216]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5158190292738048
+     1 string m_Localized = "Скорость атаки"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [217]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5158190292738049
+     1 string m_Localized = "Восстановление маны"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [218]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5158190292738050
+     1 string m_Localized = "УВОРОТ"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [219]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5158190292738051
+     1 string m_Localized = "Критический удар"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [220]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5162377822937088
+     1 string m_Localized = "Магазин"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [221]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5442890332708864
+     1 string m_Localized = "Уже имеется"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [222]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5442890332708865
+     1 string m_Localized = "Не имеется"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [223]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5445093663514624
+     1 string m_Localized = "Аватар игрока"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [224]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5445093663514625
+     1 string m_Localized = "Эффект появления"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [225]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5445093663514626
+     1 string m_Localized = "Эффект победы"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [226]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5445093663514627
+     1 string m_Localized = "Скин героя"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [227]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5445093663514628
+     1 string m_Localized = "Поле боя"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [228]
+    0 TableEntryData data
+     0 SInt64 m_Id = 61700360753659904
+     1 string m_Localized = "Пропустить"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [229]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5163740882026496
+     1 string m_Localized = "Рекомендации"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [230]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5163740907192320
+     1 string m_Localized = "Бонусы"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [231]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5163740907192321
+     1 string m_Localized = "Ресурсы"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [232]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5174183075790848
+     1 string m_Localized = "Подтвердить покупку"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [233]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5174183075790849
+     1 string m_Localized = "Купить"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [234]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5174183075790850
+     1 string m_Localized = "Покупка не удалась"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [235]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5174183075790851
+     1 string m_Localized = "Цена"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [236]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5174183075790852
+     1 string m_Localized = "В наличии сейчас"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [237]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5174183075790853
+     1 string m_Localized = "Недостаточно валюты. Перейти к покупке?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [238]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5174865778458624
+     1 string m_Localized = "Получить"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [239]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5511176871755776
+     1 string m_Localized = "Статистика"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [240]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5517585013293056
+     1 string m_Localized = "Статистика"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [241]
+    0 TableEntryData data
+     0 SInt64 m_Id = 6955472749608960
+     1 string m_Localized = "Конфиденциальность:"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [242]
+    0 TableEntryData data
+     0 SInt64 m_Id = 6955472787357696
+     1 string m_Localized = "Низкий"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [243]
+    0 TableEntryData data
+     0 SInt64 m_Id = 6955472787357697
+     1 string m_Localized = "Высокий"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [244]
+    0 TableEntryData data
+     0 SInt64 m_Id = 9828624240492544
+     1 string m_Localized = "100%"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [245]
+    0 TableEntryData data
+     0 SInt64 m_Id = 10201921343995904
+     1 string m_Localized = "Подробности"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [246]
+    0 TableEntryData data
+     0 SInt64 m_Id = 12367391149015040
+     1 string m_Localized = "Предмет"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [247]
+    0 TableEntryData data
+     0 SInt64 m_Id = 12367391190958080
+     1 string m_Localized = "Привилегия"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [248]
+    0 TableEntryData data
+     0 SInt64 m_Id = 14850008872140800
+     1 string m_Localized = "Редкий"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [249]
+    0 TableEntryData data
+     0 SInt64 m_Id = 14850008914083840
+     1 string m_Localized = "Легендарный"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [250]
+    0 TableEntryData data
+     0 SInt64 m_Id = 14850008914083841
+     1 string m_Localized = "Эпический"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [251]
+    0 TableEntryData data
+     0 SInt64 m_Id = 16770565020598272
+     1 string m_Localized = "Изменить никнейм"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [252]
+    0 TableEntryData data
+     0 SInt64 m_Id = 16770565066735616
+     1 string m_Localized = "Введите новый никнейм"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [253]
+    0 TableEntryData data
+     0 SInt64 m_Id = 16770565066735617
+     1 string m_Localized = "Бесплатно"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [254]
+    0 TableEntryData data
+     0 SInt64 m_Id = 16770565066735618
+     1 string m_Localized = "(Бесплатно в первый раз)"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [255]
+    0 TableEntryData data
+     0 SInt64 m_Id = 16770565066735619
+     1 string m_Localized = "У вас недостаточно алмазов. Перейти к пополнению?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [256]
+    0 TableEntryData data
+     0 SInt64 m_Id = 16770565066735620
+     1 string m_Localized = "Подсказка"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [257]
+    0 TableEntryData data
+     0 SInt64 m_Id = 16770565070929920
+     1 string m_Localized = "Вернуться"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [258]
+    0 TableEntryData data
+     0 SInt64 m_Id = 16770565070929921
+     1 string m_Localized = "Перейти к пополнению"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [259]
+    0 TableEntryData data
+     0 SInt64 m_Id = 16770565070929922
+     1 string m_Localized = "Подтвердить изменение никнейма на"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [260]
+    0 TableEntryData data
+     0 SInt64 m_Id = 18123942233128960
+     1 string m_Localized = "Серия побед"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [261]
+    0 TableEntryData data
+     0 SInt64 m_Id = 32685880912920576
+     1 string m_Localized = "Повышение атаки"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [262]
+    0 TableEntryData data
+     0 SInt64 m_Id = 32685880954863616
+     1 string m_Localized = "Повысить атаку на 5 очков."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [263]
+    0 TableEntryData data
+     0 SInt64 m_Id = 32685880954863617
+     1 string m_Localized = "Атака авангарда"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [264]
+    0 TableEntryData data
+     0 SInt64 m_Id = 32685880954863618
+     1 string m_Localized = "Каждые 0,8 секунды наносить противнику магический урон, равный текущему значению (своя атака - атака противника) * <color=#2CCD2CFF>100%</color>. Минимальный урон не менее <color=#2CCD2CFF>20</color> очков."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [265]
+    0 TableEntryData data
+     0 SInt64 m_Id = 32685880954863619
+     1 string m_Localized = "Атака авангарда"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [266]
+    0 TableEntryData data
+     0 SInt64 m_Id = 32685880954863620
+     1 string m_Localized = "Каждые 0,8 секунды наносить противнику магический урон, равный текущему значению (своя атака - атака противника) * <color=#2CCD2CFF>400%</color>. Минимальный урон не менее <color=#2CCD2CFF>80</color> очков."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [267]
+    0 TableEntryData data
+     0 SInt64 m_Id = 32685880954863621
+     1 string m_Localized = "Бесстрашная серия атак"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [268]
+    0 TableEntryData data
+     0 SInt64 m_Id = 32685880954863622
+     1 string m_Localized = "После обычной атаки с вероятностью <color=#2CCD2CFF>40%</color> произвести дополнительную атаку. (Эта дополнительная атака также может вызвать серию атак)."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [269]
+    0 TableEntryData data
+     0 SInt64 m_Id = 33707719298662400
+     1 string m_Localized = "Количество <color=#ff9e39>HP</color>: когда равно 0, битва проиграна."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [270]
+    0 TableEntryData data
+     0 SInt64 m_Id = 33707719348994048
+     1 string m_Localized = "<color=#60ffc9>Энергия</color>: герой автоматически выпускает сильный навык, когда энергия накопится полностью."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [271]
+    0 TableEntryData data
+     0 SInt64 m_Id = 33707719348994049
+     1 string m_Localized = "<color=#A1B7E0>Атака</color>: урон от обычной атаки."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [272]
+    0 TableEntryData data
+     0 SInt64 m_Id = 33707719348994050
+     1 string m_Localized = "<color=#A1B7E0>Скорость атаки</color>: количество обычных атак в секунду."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [273]
+    0 TableEntryData data
+     0 SInt64 m_Id = 33707719348994051
+     1 string m_Localized = "<color=#ff2429>Крит</color>: по умолчанию только физический урон может вызвать критический удар. По умолчанию коэффициент критического урона составляет 200%."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [274]
+    0 TableEntryData data
+     0 SInt64 m_Id = 33708696357584896
+     1 string m_Localized = "<color=#627eec>Уклонение</color>: по умолчанию только физический урон может быть уклонен."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [275]
+    0 TableEntryData data
+     0 SInt64 m_Id = 33707719348994053
+     1 string m_Localized = "Уровень героя: при повышении звезды школы навыков одновременно повышается уровень героя и получается дополнительное <color=#ff9e39>максимальное количество HP</color>."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [276]
+    0 TableEntryData data
+     0 SInt64 m_Id = 35620038438043648
+     1 string m_Localized = "Потеря жизни увеличивает ярость. Когда <color=#92122b>Ярость</color> достигнет 100, герой входит в состояние <color=#92122b>Ярости</color>, которое длится 3 секунды. В состоянии <color=#92122b>Ярости</color> каждый пункт ярости может увеличить урон, но не более чем на 100%. Когда состояние <color=#92122b>Ярости</color> заканчивается, <color=#92122b>Ярость</color> возвращается к нулю."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [277]
+    0 TableEntryData data
+     0 SInt64 m_Id = 35878635642306560
+     1 string m_Localized = "Самый высокий рейтинг в этом сезоне"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [278]
+    0 TableEntryData data
+     0 SInt64 m_Id = 37760772561715200
+     1 string m_Localized = "Отравление"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [279]
+    0 TableEntryData data
+     0 SInt64 m_Id = 37760772603658240
+     1 string m_Localized = "Отравляющая атака"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [280]
+    0 TableEntryData data
+     0 SInt64 m_Id = 37760772603658241
+     1 string m_Localized = "Отравленный ветер"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [281]
+    0 TableEntryData data
+     0 SInt64 m_Id = 64136994258436096
+     1 string m_Localized = "Мой рейтинг:"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [282]
+    0 TableEntryData data
+     0 SInt64 m_Id = 66351544194056192
+     1 string m_Localized = "<color=#997c59>Нажмите</color>"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [283]
+    0 TableEntryData data
+     0 SInt64 m_Id = 40558348653887488
+     1 string m_Localized = "Первая победа в день"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [284]
+    0 TableEntryData data
+     0 SInt64 m_Id = 40558348687441920
+     1 string m_Localized = "Первый чемпион сезона"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [285]
+    0 TableEntryData data
+     0 SInt64 m_Id = 40572867422470144
+     1 string m_Localized = "Основная информация"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [286]
+    0 TableEntryData data
+     0 SInt64 m_Id = 41307478519726080
+     1 string m_Localized = "Дополнительный бонус"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [287]
+    0 TableEntryData data
+     0 SInt64 m_Id = 45643437860208640
+     1 string m_Localized = "Сундук для битвы"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [288]
+    0 TableEntryData data
+     0 SInt64 m_Id = 47557089974566912
+     1 string m_Localized = "Поздравляем с получением"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [289]
+    0 TableEntryData data
+     0 SInt64 m_Id = 47557089999732736
+     1 string m_Localized = "Нажмите в любом месте, чтобы закрыть."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [290]
+    0 TableEntryData data
+     0 SInt64 m_Id = 47558033747492864
+     1 string m_Localized = "Расход"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [291]
+    0 TableEntryData data
+     0 SInt64 m_Id = 47558033747492865
+     1 string m_Localized = "Разблокировать"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [292]
+    0 TableEntryData data
+     0 SInt64 m_Id = 47558927356542976
+     1 string m_Localized = "Используется"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [293]
+    0 TableEntryData data
+     0 SInt64 m_Id = 48558738423693312
+     1 string m_Localized = "Проверяется обновление данных..."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [294]
+    0 TableEntryData data
+     0 SInt64 m_Id = 48558738448859136
+     1 string m_Localized = "Подготавливаются данные..."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [295]
+    0 TableEntryData data
+     0 SInt64 m_Id = 48558738448859137
+     1 string m_Localized = "Обновляются данные..."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [296]
+    0 TableEntryData data
+     0 SInt64 m_Id = 48905677631668224
+     1 string m_Localized = "Молот бури"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [297]
+    0 TableEntryData data
+     0 SInt64 m_Id = 48905677669416960
+     1 string m_Localized = "Священный взрыв"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [298]
+    0 TableEntryData data
+     0 SInt64 m_Id = 48906638446051328
+     1 string m_Localized = "БАЗ.АТК"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [299]
+    0 TableEntryData data
+     0 SInt64 m_Id = 48906638446051329
+     1 string m_Localized = "Увеличивает скорость атаки на {0:plr}."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 5534262468579426367
+   [300]
+    0 TableEntryData data
+     0 SInt64 m_Id = 48906638446051330
+     1 string m_Localized = "УВОРОТ"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [301]
+    0 TableEntryData data
+     0 SInt64 m_Id = 48906638446051331
+     1 string m_Localized = "Уменьшает получаемый физический урон на {0:plr} и увеличивает <color=#627eec>Уворот</color> на {1:lr}."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 5534262468579426367
+   [302]
+    0 TableEntryData data
+     0 SInt64 m_Id = 48906638446051332
+     1 string m_Localized = "КРИТ"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [303]
+    0 TableEntryData data
+     0 SInt64 m_Id = 48906638446051333
+     1 string m_Localized = "Увеличивает множитель урона <color=#ff2429>КРИТ</color> на {0:plr} и <color=#ff2429>КРИТ</color> на {1:lr}."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 5534262468579426367
+   [304]
+    0 TableEntryData data
+     0 SInt64 m_Id = 48906638446051334
+     1 string m_Localized = "HP"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [305]
+    0 TableEntryData data
+     0 SInt64 m_Id = 48906638446051335
+     1 string m_Localized = "Увеличивает <color=#ff9e39>максимальное HP</color> на {0:plr}."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 5534262468579426367
+   [306]
+    0 TableEntryData data
+     0 SInt64 m_Id = 48906638446051336
+     1 string m_Localized = "ЛЕЧЕНИЕ"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [307]
+    0 TableEntryData data
+     0 SInt64 m_Id = 48906638446051337
+     1 string m_Localized = "Увеличивает все эффекты <color=#eebc15>восстановления HP</color> на {0:plr}."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 5534262468579426367
+   [308]
+    0 TableEntryData data
+     0 SInt64 m_Id = 48906638450245632
+     1 string m_Localized = "УЛЬТА"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [309]
+    0 TableEntryData data
+     0 SInt64 m_Id = 48906638450245633
+     1 string m_Localized = "Увеличивает эффект <color=#60ffc9>Ульты</color> на {0:plr}."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 5534262468579426367
+   [310]
+    0 TableEntryData data
+     0 SInt64 m_Id = 48906638450245634
+     1 string m_Localized = "ЯД"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [311]
+    0 TableEntryData data
+     0 SInt64 m_Id = 48906638450245635
+     1 string m_Localized = "Увеличивает количество зарядов <color=#0f7f03>Яд</color> на {0:plr} каждый раз при нанесении <color=#0f7f03>Яд</color>."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 5534262468579426367
+   [312]
+    0 TableEntryData data
+     0 SInt64 m_Id = 48906638450245636
+     1 string m_Localized = "ЛЁД"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [313]
+    0 TableEntryData data
+     0 SInt64 m_Id = 48906638450245637
+     1 string m_Localized = "Увеличивает количество стаков <color=#80cdff>Заморозка</color> на {0:plr} каждый раз при нанесении <color=#80cdff>Заморозка</color>."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 5534262468579426367
+   [314]
+    0 TableEntryData data
+     0 SInt64 m_Id = 48906638450245638
+     1 string m_Localized = "ЩИТ"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [315]
+    0 TableEntryData data
+     0 SInt64 m_Id = 48906638450245639
+     1 string m_Localized = "Каждый раз, когда добавляется <color=#775b46>щит<color=#775b46>, количество слоев <color=#775b46>щита<color=#775b46> увеличивается на {0:plr}."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 5534262468579426367
+   [316]
+    0 TableEntryData data
+     0 SInt64 m_Id = 48906638450245640
+     1 string m_Localized = "РАНЫ"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [317]
+    0 TableEntryData data
+     0 SInt64 m_Id = 48906638450245641
+     1 string m_Localized = "Увеличивает количество стаков <color=#674d7d>Рана</color> на {0:plr} каждый раз при предоставлении <color=#674d7d>Рана</color>."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 5534262468579426367
+   [318]
+    0 TableEntryData data
+     0 SInt64 m_Id = 48906638450245642
+     1 string m_Localized = "ДУХ"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [319]
+    0 TableEntryData data
+     0 SInt64 m_Id = 48906638450245643
+     1 string m_Localized = "Увеличивает максимальное HP <color=#ff91d2>Духа</color> на {0:plr} и долю получаемого урона на {1:plr}."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 5534262468579426367
+   [320]
+    0 TableEntryData data
+     0 SInt64 m_Id = 48906638450245644
+     1 string m_Localized = "ЯРОСТЬ"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [321]
+    0 TableEntryData data
+     0 SInt64 m_Id = 48906638450245645
+     1 string m_Localized = "Каждый раз, когда вы получаете <color=#92122b>Ярость</color>, количество полученной <color=#92122b>Ярости</color> дополнительно увеличивается на {0:lr}."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 5534262468579426367
+   [322]
+    0 TableEntryData data
+     0 SInt64 m_Id = 48908163247521792
+     1 string m_Localized = "Бот"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [323]
+    0 TableEntryData data
+     0 SInt64 m_Id = 70372146722652160
+     1 string m_Localized = "Дорогой боец:\\n        Если вам понравилась игра, не забудьте добавить ее в свой список желаний. Давайте вместе начнем это замечательное приключение. Ваша поддержка - это наша движущая сила!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 5534262468579426367
+   [324]
+    0 TableEntryData data
+     0 SInt64 m_Id = 74358982608437251
+     1 string m_Localized = "выбор сервера"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [325]
+    0 TableEntryData data
+     0 SInt64 m_Id = 74358982608437256
+     1 string m_Localized = "сервер последнего входа"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [326]
+    0 TableEntryData data
+     0 SInt64 m_Id = 74358982608437257
+     1 string m_Localized = "рекомендуемый сервер"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [327]
+    0 TableEntryData data
+     0 SInt64 m_Id = 74358982608437252
+     1 string m_Localized = "тех. работы"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [328]
+    0 TableEntryData data
+     0 SInt64 m_Id = 74358982608437253
+     1 string m_Localized = "отличный"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [329]
+    0 TableEntryData data
+     0 SInt64 m_Id = 74358982608437254
+     1 string m_Localized = "средний"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [330]
+    0 TableEntryData data
+     0 SInt64 m_Id = 74358982608437255
+     1 string m_Localized = "плохой"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [331]
+    0 TableEntryData data
+     0 SInt64 m_Id = 74629901461504000
+     1 string m_Localized = "Выйти из системы"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [332]
+    0 TableEntryData data
+     0 SInt64 m_Id = 79006194407849984
+     1 string m_Localized = "Сообщество"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [333]
+    0 TableEntryData data
+     0 SInt64 m_Id = 79006194437210112
+     1 string m_Localized = "Обратная связь"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [334]
+    0 TableEntryData data
+     0 SInt64 m_Id = 84538257349296128
+     1 string m_Localized = "Бесплатно на неделю"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [335]
+    0 TableEntryData data
+     0 SInt64 m_Id = 91401271288782848
+     1 string m_Localized = "Может быть получено в сундуке для битвы"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [336]
+    0 TableEntryData data
+     0 SInt64 m_Id = 94290185473220608
+     1 string m_Localized = "Обновление рейтинга может задерживаться примерно на 30 минут.\\nЕсли средний ранг выше 5, данные рейтинга обновляться не будут.\\nЧтобы участвовать в рейтинге, вы должны достичь ранга Сильнейший."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 5534262468579426367
+   [337]
+    0 TableEntryData data
+     0 SInt64 m_Id = 101807293393027072
+     1 string m_Localized = "Уровень этого игрока сильно отличается от вашего, поэтому при подсчёте очков вы получите меньше очков."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [338]
+    0 TableEntryData data
+     0 SInt64 m_Id = 105910528177356800
+     1 string m_Localized = "Бомба"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [339]
+    0 TableEntryData data
+     0 SInt64 m_Id = 105910528244465664
+     1 string m_Localized = "состояние："
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [340]
+    0 TableEntryData data
+     0 SInt64 m_Id = 108785678874853376
+     1 string m_Localized = "Сезонные эксклюзивные награды"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [341]
+    0 TableEntryData data
+     0 SInt64 m_Id = 108785678941962240
+     1 string m_Localized = "Расчёт сезона"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [342]
+    0 TableEntryData data
+     0 SInt64 m_Id = 108791143524483072
+     1 string m_Localized = "Получить"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [343]
+    0 TableEntryData data
+     0 SInt64 m_Id = 112348906041131008
+     1 string m_Localized = "Принадлежит к ветке:"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [344]
+    0 TableEntryData data
+     0 SInt64 m_Id = 114517576796356608
+     1 string m_Localized = "Счастливые Звезды: В начале каждого сезона сбрасывается до 3 Счастливых Звезд. Каждый день автоматически добавляется 1 звезда, и это накапливается даже для игроков, которые не заходили в игру. При подсчете результатов партии, используется 1 звезда для получения 40 очков опыта Руководства по Сезону."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [345]
+    0 TableEntryData data
+     0 SInt64 m_Id = 116022399060426752
+     1 string m_Localized = ""
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [346]
+    0 TableEntryData data
+     0 SInt64 m_Id = 127631769854558208
+     1 string m_Localized = "Аккаунт"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [347]
+    0 TableEntryData data
+     0 SInt64 m_Id = 127640565792391168
+     1 string m_Localized = "Игровой аккаунт"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [348]
+    0 TableEntryData data
+     0 SInt64 m_Id = 127640565825945600
+     1 string m_Localized = "Старый пароль:"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [349]
+    0 TableEntryData data
+     0 SInt64 m_Id = 127640565825945601
+     1 string m_Localized = "Новый пароль:"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [350]
+    0 TableEntryData data
+     0 SInt64 m_Id = 127640565825945602
+     1 string m_Localized = "Подтвердите пароль:"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [351]
+    0 TableEntryData data
+     0 SInt64 m_Id = 127640565825945603
+     1 string m_Localized = "Пароль:"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [352]
+    0 TableEntryData data
+     0 SInt64 m_Id = 127640565825945604
+     1 string m_Localized = "Почта:"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [353]
+    0 TableEntryData data
+     0 SInt64 m_Id = 127640565825945605
+     1 string m_Localized = "Код подтверждения:"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [354]
+    0 TableEntryData data
+     0 SInt64 m_Id = 127640565825945606
+     1 string m_Localized = "Отправить"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [355]
+    0 TableEntryData data
+     0 SInt64 m_Id = 127640565825945608
+     1 string m_Localized = "Старая почта:"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [356]
+    0 TableEntryData data
+     0 SInt64 m_Id = 127640565825945609
+     1 string m_Localized = "Новая почта:"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [357]
+    0 TableEntryData data
+     0 SInt64 m_Id = 127640565830139904
+     1 string m_Localized = "Изменить"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [358]
+    0 TableEntryData data
+     0 SInt64 m_Id = 127659769383895040
+     1 string m_Localized = "Сброс"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [359]
+    0 TableEntryData data
+     0 SInt64 m_Id = 129772109919174656
+     1 string m_Localized = "Почта"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [360]
+    0 TableEntryData data
+     0 SInt64 m_Id = 131966991479881728
+     1 string m_Localized = "Steam"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [361]
+    0 TableEntryData data
+     0 SInt64 m_Id = 129772275774537728
+     1 string m_Localized = "Гость"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [362]
+    0 TableEntryData data
+     0 SInt64 m_Id = 129772587021254656
+     1 string m_Localized = "Войти"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [363]
+    0 TableEntryData data
+     0 SInt64 m_Id = 129780537446121472
+     1 string m_Localized = "Забыли пароль"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [364]
+    0 TableEntryData data
+     0 SInt64 m_Id = 131950337945518080
+     1 string m_Localized = "Последний вход:"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [365]
+    0 TableEntryData data
+     0 SInt64 m_Id = 134546134780362752
+     1 string m_Localized = "Изменить пароль"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [366]
+    0 TableEntryData data
+     0 SInt64 m_Id = 134555818421665792
+     1 string m_Localized = "Эксклюзивная привилегия второго сезона: Игроки, активировавшие Премиум-пропуск и достигшие ранга Сильнейший до окончания сезона, могут получить Премиум-пропуск и сохранить эту привилегию. Если награда не будет получена или процесс прервётся, привилегия будет приостановлена."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [367]
+    0 TableEntryData data
+     0 SInt64 m_Id = 134555818451025920
+     1 string m_Localized = "Привилегии Сезона"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [368]
+    0 TableEntryData data
+     0 SInt64 m_Id = 134922907581956096
+     1 string m_Localized = "Закрыть"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [369]
+    0 TableEntryData data
+     0 SInt64 m_Id = 135182526318977024
+     1 string m_Localized = "Получил"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [370]
+    0 TableEntryData data
+     0 SInt64 m_Id = 135262974796120064
+     1 string m_Localized = "Сервер:"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [371]
+    0 TableEntryData data
+     0 SInt64 m_Id = 142810818106695680
+     1 string m_Localized = "Турнир"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [372]
+    0 TableEntryData data
+     0 SInt64 m_Id = 142832222051049472
+     1 string m_Localized = "Турнир — это режим игры для 56 игроков. Участие требует ставок, а топ-3 игрока из группового этапа и финала получают все награды.\\n\\nТурнир проводится каждую среду и субботу в 21:00, но обратите внимание на часовой пояс вашего сервера.\\n<color=#417fff>【Европейский сервер: UTC+2】</color>\\n<color=#417fff>【Азиатский и Китайский сервер: UTC+8】</color>\\n<color=#417fff>【Североамериканский сервер: UTC-5】</color>\\n\\nЭтапы турнира:\\n<color=#417fff>【Фаза ставок】</color>21:00 - 21:15: Игроки тратят предметы для участия. Топ-56 ставок проходят. Предметы участников идут в призовой фонд. Неудачные ставки возвращаются.\\n<color=#417fff>【Групповой этап】</color>56 игроков делятся на 7 групп. Победитель группы проходит в финал. Зрители могут наблюдать и отправлять цветы. 1 проигравший с наибольшим количеством цветов также проходит.\\n<color=#417fff>【Подготовка к финалу】</color>Участники готовятся 5 минут. Остальные могут делать наградные предсказания, предсказывая, кто станет чемпионом.\\n<color=#417fff>【Финал】</color>8 игроков соревнуются за топ-3. После финала предсказания рассчитываются.\\n\\nДополнительно:\\nСдача запрещена.\\nКарты Таро нельзя использовать.\\nТолько 1 бесплатный сброс за матч.\\nАрена турнира доступна для просмотра.\\nИгроки в топ-56 ставок не могут играть в обычном режиме."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 5534262468579426367
+   [373]
+    0 TableEntryData data
+     0 SInt64 m_Id = 142810818148638721
+     1 string m_Localized = "Зал славы"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [374]
+    0 TableEntryData data
+     0 SInt64 m_Id = 142810818148638722
+     1 string m_Localized = "Призовой фонд"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [375]
+    0 TableEntryData data
+     0 SInt64 m_Id = 142810818148638723
+     1 string m_Localized = "Ставка"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [376]
+    0 TableEntryData data
+     0 SInt64 m_Id = 142810818148638724
+     1 string m_Localized = "Остаток"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [377]
+    0 TableEntryData data
+     0 SInt64 m_Id = 142811174853222400
+     1 string m_Localized = "Игрок"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [378]
+    0 TableEntryData data
+     0 SInt64 m_Id = 142812090834690048
+     1 string m_Localized = "Поддержать участника"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [379]
+    0 TableEntryData data
+     0 SInt64 m_Id = 142813077506957312
+     1 string m_Localized = "Тратьте цветы, чтобы повысить популярность вашего участника. Участник с самой высокой популярностью, занявший 1 место среди выбывших в групповом этапе, может пройти в финал."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 5534262468579426367
+   [380]
+    0 TableEntryData data
+     0 SInt64 m_Id = 142813471981248512
+     1 string m_Localized = "Вперед!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [381]
+    0 TableEntryData data
+     0 SInt64 m_Id = 142814635053359104
+     1 string m_Localized = "Участвовать в аукционе"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [382]
+    0 TableEntryData data
+     0 SInt64 m_Id = 142814635053359105
+     1 string m_Localized = "Тратьте карты Таро для участия в аукционе и получения права на участие в турнире."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [383]
+    0 TableEntryData data
+     0 SInt64 m_Id = 142815423075000320
+     1 string m_Localized = "Викторина с призами"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [384]
+    0 TableEntryData data
+     0 SInt64 m_Id = 142815423075000321
+     1 string m_Localized = "Инвестируйте карты Таро, чтобы предсказать, какой участник станет чемпионом. При правильной ставке вы получите награду согласно коэфиценту!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [385]
+    0 TableEntryData data
+     0 SInt64 m_Id = 142815423075000322
+     1 string m_Localized = "Угадать"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [386]
+    0 TableEntryData data
+     0 SInt64 m_Id = 142825995216691200
+     1 string m_Localized = "Рейтинги чемпионата"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [387]
+    0 TableEntryData data
+     0 SInt64 m_Id = 142825995246051328
+     1 string m_Localized = "Рейтинги спонсорства"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [388]
+    0 TableEntryData data
+     0 SInt64 m_Id = 142825995246051329
+     1 string m_Localized = "Рейтинг популярности"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [389]
+    0 TableEntryData data
+     0 SInt64 m_Id = 142826656788455424
+     1 string m_Localized = "Чемпион"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [390]
+    0 TableEntryData data
+     0 SInt64 m_Id = 142826656788455425
+     1 string m_Localized = "Топ-3"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [391]
+    0 TableEntryData data
+     0 SInt64 m_Id = 142826656788455426
+     1 string m_Localized = "Спонсорская передача"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [392]
+    0 TableEntryData data
+     0 SInt64 m_Id = 142826656788455427
+     1 string m_Localized = "Полученные цветы"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [393]
+    0 TableEntryData data
+     0 SInt64 m_Id = 144930166879363072
+     1 string m_Localized = "Вы получили награды"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [394]
+    0 TableEntryData data
+     0 SInt64 m_Id = 144954648033566720
+     1 string m_Localized = "1-е место"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [395]
+    0 TableEntryData data
+     0 SInt64 m_Id = 144954648067121152
+     1 string m_Localized = "2-е место"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [396]
+    0 TableEntryData data
+     0 SInt64 m_Id = 144954648067121153
+     1 string m_Localized = "3-е место"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [397]
+    0 TableEntryData data
+     0 SInt64 m_Id = 145426542595743744
+     1 string m_Localized = "Уведомление"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [398]
+    0 TableEntryData data
+     0 SInt64 m_Id = 145426542641881088
+     1 string m_Localized = "К сожалению, вы выбыли из Турнира по боевым искусствам."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 5534262468579426367
+   [399]
+    0 TableEntryData data
+     0 SInt64 m_Id = 145426542641881089
+     1 string m_Localized = "К сожалению, вы выбыли из группового этапа. Однако, если ваша популярность будет достаточно высокой после окончания группового этапа, вы всё ещё сможете участвовать в финале. Следите за ходом соревнований!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 5534262468579426367
+   [400]
+    0 TableEntryData data
+     0 SInt64 m_Id = 146447459882967040
+     1 string m_Localized = "К сожалению, участник, на которого вы делали ставку, не стал победителем. Но удача не всегда остаётся на одном месте—желаем вам успеха в следующий раз!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 5534262468579426367
+   [401]
+    0 TableEntryData data
+     0 SInt64 m_Id = 146506190833074176
+     1 string m_Localized = "Участник. на которого вы делали ставку. стал чемпионом."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [402]
+    0 TableEntryData data
+     0 SInt64 m_Id = 146506190875017216
+     1 string m_Localized = "Поздравляем с получением"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [403]
+    0 TableEntryData data
+     0 SInt64 m_Id = 152611147526512640
+     1 string m_Localized = "Объявления"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [404]
+    0 TableEntryData data
+     0 SInt64 m_Id = 160240284833144832
+     1 string m_Localized = "Google"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [405]
+    0 TableEntryData data
+     0 SInt64 m_Id = 159881477559230464
+     1 string m_Localized = "Боевая статистика:"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [406]
+    0 TableEntryData data
+     0 SInt64 m_Id = 159881477592784896
+     1 string m_Localized = "Фиксированно"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [407]
+    0 TableEntryData data
+     0 SInt64 m_Id = 159881477592784897
+     1 string m_Localized = "Вручную"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [408]
+    0 TableEntryData data
+     0 SInt64 m_Id = 164162297042583552
+     1 string m_Localized = "Удалить аккаунт"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [409]
+    0 TableEntryData data
+     0 SInt64 m_Id = 165688206591074304
+     1 string m_Localized = "Ценность"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [410]
+    0 TableEntryData data
+     0 SInt64 m_Id = 167397507227525120
+     1 string m_Localized = "Наблюдать"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [411]
+    0 TableEntryData data
+     0 SInt64 m_Id = 167776296201691136
+     1 string m_Localized = "Текущая Периодическая Способность"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [412]
+    0 TableEntryData data
+     0 SInt64 m_Id = 185937786702675968
+     1 string m_Localized = "Запомнить меня"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [413]
+    0 TableEntryData data
+     0 SInt64 m_Id = 188441475532791808
+     1 string m_Localized = "СРЕД.МЕСТО"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [414]
+    0 TableEntryData data
+     0 SInt64 m_Id = 206269585077059584
+     1 string m_Localized = "Заблокировано"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [415]
+    0 TableEntryData data
+     0 SInt64 m_Id = 207270783633141760
+     1 string m_Localized = "Команда для соревнований"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [416]
+    0 TableEntryData data
+     0 SInt64 m_Id = 207270783675084800
+     1 string m_Localized = "Команда для соревнований"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [417]
+    0 TableEntryData data
+     0 SInt64 m_Id = 207270783675084801
+     1 string m_Localized = "Название комнаты..."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [418]
+    0 TableEntryData data
+     0 SInt64 m_Id = 207270783675084802
+     1 string m_Localized = "Тип комнаты"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [419]
+    0 TableEntryData data
+     0 SInt64 m_Id = 207696951893110784
+     1 string m_Localized = "Только ID"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [420]
+    0 TableEntryData data
+     0 SInt64 m_Id = 207696951926665216
+     1 string m_Localized = "Публичная"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [421]
+    0 TableEntryData data
+     0 SInt64 m_Id = 207356883135442944
+     1 string m_Localized = "Использовать карты Таро"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [422]
+    0 TableEntryData data
+     0 SInt64 m_Id = 207356883189968896
+     1 string m_Localized = "Доступно"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [423]
+    0 TableEntryData data
+     0 SInt64 m_Id = 207356883189968897
+     1 string m_Localized = "Недоступно"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [424]
+    0 TableEntryData data
+     0 SInt64 m_Id = 207356883189968898
+     1 string m_Localized = "Карт Таро с игрока:"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [425]
+    0 TableEntryData data
+     0 SInt64 m_Id = 207356883189968899
+     1 string m_Localized = "Дополнительный взнос создателя"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [426]
+    0 TableEntryData data
+     0 SInt64 m_Id = 207356883189968900
+     1 string m_Localized = " "
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [427]
+    0 TableEntryData data
+     0 SInt64 m_Id = 207356883189968901
+     1 string m_Localized = "приз"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [428]
+    0 TableEntryData data
+     0 SInt64 m_Id = 207356883189968902
+     1 string m_Localized = "Создать"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [429]
+    0 TableEntryData data
+     0 SInt64 m_Id = 208056219406249984
+     1 string m_Localized = "Готов"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [430]
+    0 TableEntryData data
+     0 SInt64 m_Id = 240296110651158528
+     1 string m_Localized = "Отменить"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [431]
+    0 TableEntryData data
+     0 SInt64 m_Id = 208056219443998720
+     1 string m_Localized = "Начать"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [432]
+    0 TableEntryData data
+     0 SInt64 m_Id = 208449739736559616
+     1 string m_Localized = "Поражение"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [433]
+    0 TableEntryData data
+     0 SInt64 m_Id = 235235006845628416
+     1 string m_Localized = "Название комнаты"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [434]
+    0 TableEntryData data
+     0 SInt64 m_Id = 235235007080509440
+     1 string m_Localized = "Бонус"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [435]
+    0 TableEntryData data
+     0 SInt64 m_Id = 235235007080509441
+     1 string m_Localized = "ОБНОВИТЬ"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [436]
+    0 TableEntryData data
+     0 SInt64 m_Id = 235235007080509442
+     1 string m_Localized = "Игрок"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [437]
+    0 TableEntryData data
+     0 SInt64 m_Id = 235235007080509443
+     1 string m_Localized = "Билеты"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [438]
+    0 TableEntryData data
+     0 SInt64 m_Id = 235235007080509444
+     1 string m_Localized = "Создать"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [439]
+    0 TableEntryData data
+     0 SInt64 m_Id = 235235007080509445
+     1 string m_Localized = "Войти"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [440]
+    0 TableEntryData data
+     0 SInt64 m_Id = 235235007080509446
+     1 string m_Localized = "Обновить"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [441]
+    0 TableEntryData data
+     0 SInt64 m_Id = 236315903850262528
+     1 string m_Localized = "Турнирные испытания"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [442]
+    0 TableEntryData data
+     0 SInt64 m_Id = 236322888150757376
+     1 string m_Localized = "Турнир"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [443]
+    0 TableEntryData data
+     0 SInt64 m_Id = 236337730433658880
+     1 string m_Localized = "Временный призыв"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [444]
+    0 TableEntryData data
+     0 SInt64 m_Id = 236337730475601920
+     1 string m_Localized = "Раз"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [445]
+    0 TableEntryData data
+     0 SInt64 m_Id = 236347806657622016
+     1 string m_Localized = "Все SSR получены."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [446]
+    0 TableEntryData data
+     0 SInt64 m_Id = 239236703406338048
+     1 string m_Localized = "Всё получено"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [447]
+    0 TableEntryData data
+     0 SInt64 m_Id = 238815691476905984
+     1 string m_Localized = "Правила сезона"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [448]
+    0 TableEntryData data
+     0 SInt64 m_Id = 238815691518849025
+     1 string m_Localized = "Показ аватара"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [449]
+    0 TableEntryData data
+     0 SInt64 m_Id = 238815691518849026
+     1 string m_Localized = "Ранг:"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [450]
+    0 TableEntryData data
+     0 SInt64 m_Id = 238815691518849027
+     1 string m_Localized = "Рейтинг:"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [451]
+    0 TableEntryData data
+     0 SInt64 m_Id = 238815691518849028
+     1 string m_Localized = "Рейтинг «Chicken Dinner»"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [452]
+    0 TableEntryData data
+     0 SInt64 m_Id = 220028967581986816
+     1 string m_Localized = "Наследование Ранга"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [453]
+    0 TableEntryData data
+     0 SInt64 m_Id = 223633630899208192
+     1 string m_Localized = "Apple"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+ 0 ManagedReferencesRegistry references
+  0 int version = 2
+  0 vector RefIds
+   1 Array Array
+    0 int size = 1
+    0 ReferencedObject data
+     0 SInt64 rid = 5534262468579426367
+     0 ReferencedManagedType type
+      1 string class = "SmartFormatTag"
+      1 string ns = "UnityEngine.Localization.Metadata"
+      1 string asm = "Unity.Localization"
+     0 ReferencedObjectData data
+      0 vector m_Entries
+       1 Array Array (165 items)
+        0 int size = 165
+        [0]
+         0 SInt64 data = 4449103766691857
+        [1]
+         0 SInt64 data = 4449103766691883
+        [2]
+         0 SInt64 data = 4449103766691903
+        [3]
+         0 SInt64 data = 4449103766691939
+        [4]
+         0 SInt64 data = 4449103766691944
+        [5]
+         0 SInt64 data = 4449103766691947
+        [6]
+         0 SInt64 data = 4449103766691975
+        [7]
+         0 SInt64 data = 4449103770886170
+        [8]
+         0 SInt64 data = 4449103770886176
+        [9]
+         0 SInt64 data = 4787941756182544
+        [10]
+         0 SInt64 data = 5133811050364946
+        [11]
+         0 SInt64 data = 48906638446051329
+        [12]
+         0 SInt64 data = 48906638446051331
+        [13]
+         0 SInt64 data = 48906638446051333
+        [14]
+         0 SInt64 data = 48906638446051337
+        [15]
+         0 SInt64 data = 48906638450245633
+        [16]
+         0 SInt64 data = 48906638450245643
+        [17]
+         0 SInt64 data = 65941475358949388
+        [18]
+         0 SInt64 data = 65941475363143703
+        [19]
+         0 SInt64 data = 65941475363143710
+        [20]
+         0 SInt64 data = 65941475367337984
+        [21]
+         0 SInt64 data = 65941475367337992
+        [22]
+         0 SInt64 data = 65941475367338009
+        [23]
+         0 SInt64 data = 65941475371532296
+        [24]
+         0 SInt64 data = 65941475371532301
+        [25]
+         0 SInt64 data = 65941475371532303
+        [26]
+         0 SInt64 data = 65941475371532328
+        [27]
+         0 SInt64 data = 65941475375726592
+        [28]
+         0 SInt64 data = 65941475375726610
+        [29]
+         0 SInt64 data = 65941475375726614
+        [30]
+         0 SInt64 data = 65941475379920900
+        [31]
+         0 SInt64 data = 65941475379920910
+        [32]
+         0 SInt64 data = 65941475388309532
+        [33]
+         0 SInt64 data = 65941475388309534
+        [34]
+         0 SInt64 data = 65941475392503808
+        [35]
+         0 SInt64 data = 65941475392503810
+        [36]
+         0 SInt64 data = 65941475392503812
+        [37]
+         0 SInt64 data = 65941475392503814
+        [38]
+         0 SInt64 data = 65941475392503816
+        [39]
+         0 SInt64 data = 65941475392503818
+        [40]
+         0 SInt64 data = 65941475392503820
+        [41]
+         0 SInt64 data = 65941475392503822
+        [42]
+         0 SInt64 data = 65941475392503824
+        [43]
+         0 SInt64 data = 65941475392503826
+        [44]
+         0 SInt64 data = 70372146722652160
+        [45]
+         0 SInt64 data = 79003242158899201
+        [46]
+         0 SInt64 data = 79003242192453632
+        [47]
+         0 SInt64 data = 79003242192453634
+        [48]
+         0 SInt64 data = 79003242200842241
+        [49]
+         0 SInt64 data = 79003242209230848
+        [50]
+         0 SInt64 data = 79003242217619458
+        [51]
+         0 SInt64 data = 79003242246979585
+        [52]
+         0 SInt64 data = 79005209081954312
+        [53]
+         0 SInt64 data = 79005209081954317
+        [54]
+         0 SInt64 data = 79005209081954319
+        [55]
+         0 SInt64 data = 79005209090342925
+        [56]
+         0 SInt64 data = 79005209094537216
+        [57]
+         0 SInt64 data = 79005650658279436
+        [58]
+         0 SInt64 data = 79005650662473729
+        [59]
+         0 SInt64 data = 79005650666668032
+        [60]
+         0 SInt64 data = 79005650666668042
+        [61]
+         0 SInt64 data = 79005650679250956
+        [62]
+         0 SInt64 data = 79005650679250958
+        [63]
+         0 SInt64 data = 79005650679250960
+        [64]
+         0 SInt64 data = 79005650679250962
+        [65]
+         0 SInt64 data = 79005650679250964
+        [66]
+         0 SInt64 data = 79005650679250966
+        [67]
+         0 SInt64 data = 79005650679250968
+        [68]
+         0 SInt64 data = 79005650683445249
+        [69]
+         0 SInt64 data = 79005650683445251
+        [70]
+         0 SInt64 data = 79005650683445253
+        [71]
+         0 SInt64 data = 79005650683445255
+        [72]
+         0 SInt64 data = 79005650683445257
+        [73]
+         0 SInt64 data = 79005650683445259
+        [74]
+         0 SInt64 data = 94290185473220608
+        [75]
+         0 SInt64 data = 134841149225500672
+        [76]
+         0 SInt64 data = 4449103766691895
+        [77]
+         0 SInt64 data = 4449103766691881
+        [78]
+         0 SInt64 data = 4449103766691890
+        [79]
+         0 SInt64 data = 4449103766691921
+        [80]
+         0 SInt64 data = 4449103770886150
+        [81]
+         0 SInt64 data = 48906638446051335
+        [82]
+         0 SInt64 data = 48906638450245635
+        [83]
+         0 SInt64 data = 48906638450245637
+        [84]
+         0 SInt64 data = 48906638450245639
+        [85]
+         0 SInt64 data = 48906638450245641
+        [86]
+         0 SInt64 data = 48906638450245645
+        [87]
+         0 SInt64 data = 137812740079894555
+        [88]
+         0 SInt64 data = 137812740079894557
+        [89]
+         0 SInt64 data = 137812740079894559
+        [90]
+         0 SInt64 data = 137812740079894561
+        [91]
+         0 SInt64 data = 137812740079894563
+        [92]
+         0 SInt64 data = 137812740079894565
+        [93]
+         0 SInt64 data = 137812740079894567
+        [94]
+         0 SInt64 data = 137812740079894569
+        [95]
+         0 SInt64 data = 137812740079894571
+        [96]
+         0 SInt64 data = 137812740079894573
+        [97]
+         0 SInt64 data = 137812740079894575
+        [98]
+         0 SInt64 data = 137812740079894577
+        [99]
+         0 SInt64 data = 137812740079894579
+        [100]
+         0 SInt64 data = 137812740079894593
+        [101]
+         0 SInt64 data = 142813077506957312
+        [102]
+         0 SInt64 data = 142832222051049472
+        [103]
+         0 SInt64 data = 145426542641881088
+        [104]
+         0 SInt64 data = 145426542641881089
+        [105]
+         0 SInt64 data = 146447459882967040
+        [106]
+         0 SInt64 data = 207271544236617728
+        [107]
+         0 SInt64 data = 207377396486451200
+        [108]
+         0 SInt64 data = 207377396520005632
+        [109]
+         0 SInt64 data = 207377396520005633
+        [110]
+         0 SInt64 data = 233068921767817219
+        [111]
+         0 SInt64 data = 233068921767817236
+        [112]
+         0 SInt64 data = 233068921767817254
+        [113]
+         0 SInt64 data = 233068921767817259
+        [114]
+         0 SInt64 data = 233068921767817261
+        [115]
+         0 SInt64 data = 233068921772011541
+        [116]
+         0 SInt64 data = 233068921772011556
+        [117]
+         0 SInt64 data = 233068921772011589
+        [118]
+         0 SInt64 data = 233068921772011594
+        [119]
+         0 SInt64 data = 233068921776205830
+        [120]
+         0 SInt64 data = 233068921776205836
+        [121]
+         0 SInt64 data = 233068921780400152
+        [122]
+         0 SInt64 data = 233068921780400154
+        [123]
+         0 SInt64 data = 233068921780400156
+        [124]
+         0 SInt64 data = 233068921780400158
+        [125]
+         0 SInt64 data = 233068921780400160
+        [126]
+         0 SInt64 data = 233068921780400162
+        [127]
+         0 SInt64 data = 233068921780400164
+        [128]
+         0 SInt64 data = 233068921780400166
+        [129]
+         0 SInt64 data = 233068921780400168
+        [130]
+         0 SInt64 data = 233068921780400170
+        [131]
+         0 SInt64 data = 233068921780400172
+        [132]
+         0 SInt64 data = 233068921780400174
+        [133]
+         0 SInt64 data = 233068921780400176
+        [134]
+         0 SInt64 data = 233068921780400189
+        [135]
+         0 SInt64 data = 233068921784594448
+        [136]
+         0 SInt64 data = 233068921784594455
+        [137]
+         0 SInt64 data = 233068921784594474
+        [138]
+         0 SInt64 data = 233068921784594475
+        [139]
+         0 SInt64 data = 233068921784594476
+        [140]
+         0 SInt64 data = 238815691518849024
+        [141]
+         0 SInt64 data = 236333905668812800
+        [142]
+         0 SInt64 data = 242894381464907776
+        [143]
+         0 SInt64 data = 242894381464907781
+        [144]
+         0 SInt64 data = 242894381464907788
+        [145]
+         0 SInt64 data = 242894381464907794
+        [146]
+         0 SInt64 data = 242894381469102115
+        [147]
+         0 SInt64 data = 242894381469102117
+        [148]
+         0 SInt64 data = 242894381469102119
+        [149]
+         0 SInt64 data = 242894381469102121
+        [150]
+         0 SInt64 data = 242894381469102123
+        [151]
+         0 SInt64 data = 242894381469102125
+        [152]
+         0 SInt64 data = 242894381469102127
+        [153]
+         0 SInt64 data = 242894381469102129
+        [154]
+         0 SInt64 data = 242894381469102131
+        [155]
+         0 SInt64 data = 242894381469102133
+        [156]
+         0 SInt64 data = 242894381469102135
+        [157]
+         0 SInt64 data = 242894381469102137
+        [158]
+         0 SInt64 data = 242894381469102139
+        [159]
+         0 SInt64 data = 242894381473296385
+        [160]
+         0 SInt64 data = 242894381473296421
+        [161]
+         0 SInt64 data = 242894381473296428
+        [162]
+         0 SInt64 data = 242894381473296447
+        [163]
+         0 SInt64 data = 242894381473296448
+        [164]
+         0 SInt64 data = 242894381473296449
